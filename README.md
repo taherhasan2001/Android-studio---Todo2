@@ -39,6 +39,9 @@ Develop an Android application with the following features:
 ## Scene Representation
 Refer to Figure 1 for an abstract explanation of the scene. Use clipart, emojis, or real-life images; avoid abstracted objects.
 
+**Figure 1: Abstract explanation for the scene**
+![Explain](images/explain.png)
+
 ## Project Guidelines
 - Utilize PNG images for sun, moon, and clouds to avoid white backgrounds.
 - Avoid abstracted objects (circles/squares); use clipart/emojis/real-life images.
@@ -47,5 +50,12 @@ Refer to Figure 1 for an abstract explanation of the scene. Use clipart, emojis,
 - Sun and moon move on the same path and direction (clockwise).
 - Object sizes should be relatively close to those in Figure 1.
 - Day/night backgrounds should fill the whole screen.
+- Application name: "1191740_TaherHasan".
 - Use Pixel 3a XL device with API Level 26 (Graphic=Software).
 
+## Results
+**Day Background**
+![Day](images/day.png)
+
+**Night Background**
+![Night](images/night.png)
