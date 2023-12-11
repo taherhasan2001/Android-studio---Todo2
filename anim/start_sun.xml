@@ -1,0 +1,17 @@
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:interpolator="@android:anim/linear_interpolator">
+
+    <!--        Note:  360 ==> 1 cycle needs 20 seconds ==> 10 day and 10 night
+                            android:pivotX="50%p"  and  android:pivotY="100%p" will make the center at the center
+                         of X-axis and at the bottom of Y-axis (50%,100%)
+     -->
+
+    <rotate
+        android:duration="20000"
+        android:fromDegrees="0"
+        android:pivotX="50%p"
+        android:pivotY="100%p"
+        android:toDegrees="360"
+        android:repeatCount="infinite" />
+
+</set>
